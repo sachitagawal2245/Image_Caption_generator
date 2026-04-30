@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+keras 
+tensorflow
+pickle 
+os
+tqdm
+PIL
