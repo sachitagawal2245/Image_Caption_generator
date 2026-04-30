@@ -1,9 +1,4 @@
-python_version < "3.12"
 numpy
 pandas
 streamlit
-tensorflow
-pickle 
-os
-tqdm
-PIL
+tensorflow==2.15.0
